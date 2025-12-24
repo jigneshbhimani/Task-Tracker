@@ -45,4 +45,17 @@ See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-
 
 ### If quasar dev is not working then apply below command for PowerShell security command
 
+```bash
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
+
+
+### Features
+
+```bash
+Add Task
+Complete Task
+Delete Task
+Summary of all ask
+Filter options (All Task, Pending Task, Completed Task) with counts
+```
